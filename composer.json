@@ -1,0 +1,21 @@
+{
+  "name": "ftven/meta-builder",
+  "description": "Build meta data",
+  "license": "MIT",
+  "keywords": ["php", "meta", "builder"],
+  "authors": [
+    {
+      "name": "Thierry Thuon",
+      "email": "thierry.thuon.ext@francetv.fr"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "4.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ftven\\DataBuilder\\": "src/Ftven/DataBuilder/"
+    }
+  }
+}
