@@ -1,5 +1,7 @@
 # Meta data builder
 
+This project is part of [francetv zoom open source projects](https://github.com/francetv/zoom-public) (iOS, Android and Angular).
+
 Help to build meta with php
 
 ## How to use
@@ -68,6 +70,3 @@ In your twig
 ```
 
 You may use some macro to refactor it.
-
----------------------------------------
-This project is part of [francetv zoom open source projects](https://gitlab.ftven.net/team-infini/zoom-public) (iOS, Android and Angular)
