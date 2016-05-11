@@ -1,5 +1,5 @@
 {
-  "name": "ftven/meta-builder",
+  "name": "ftv/meta-builder",
   "description": "Build meta data",
   "license": "MIT",
   "keywords": ["php", "meta", "builder"],
@@ -9,7 +9,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Ftven\\DataBuilder\\": "src/Ftven/DataBuilder/"
+      "Ftv\\DataBuilder\\": "src/Ftv/DataBuilder/"
     }
   }
 }

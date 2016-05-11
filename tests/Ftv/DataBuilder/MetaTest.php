@@ -20,9 +20,9 @@
  * SOFTWARE.
  */
 
-namespace Ftven\Tests\DataBuilder;
+namespace Ftv\Tests\DataBuilder;
 
-use Ftven\DataBuilder\AbstractMeta;
+use Ftv\DataBuilder\AbstractMeta;
 
 class MetaTest extends \PHPUnit_Framework_TestCase
 {

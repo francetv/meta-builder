@@ -20,7 +20,7 @@
  * SOFTWARE.
  */
 
-namespace Ftven\DataBuilder;
+namespace Ftv\DataBuilder;
 
 /**
  * Class to help building meta data
